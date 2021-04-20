@@ -24,3 +24,4 @@ gtihub 說明書
 		9. git commit -m "first commit" (commit 待命的檔案 名稱叫"first commit")
 		10. git branch -M main
 		11. git remote add origin https://github.com/<USERNAME>/<REPO>.git
+		12. git push -u origin main (丟到github上)
