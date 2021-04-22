@@ -1,6 +1,6 @@
 "# test" 
 
- # gihub 說明書
+ # github 說明書
 
 - 錯誤訊息：	
 		fatal: remote origin already exists.
