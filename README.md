@@ -1,6 +1,6 @@
 "# test" 
 
- # gtihub 說明書
+ # gihub 說明書
 
 - 錯誤訊息：	
 		fatal: remote origin already exists.
